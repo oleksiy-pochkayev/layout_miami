@@ -1,1 +1,0 @@
-[DEMO LINK](https://oleksiy-pochkayev.github.io/layout_miami/)
